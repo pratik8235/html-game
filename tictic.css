@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+	background: #031321;
+	font-family: serif;
+}
+
+.StartGame{
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+	text-decoration: overline;
+    
+}
+
+.span{
+	color: red;
+}
+
+a{
+	justify-content: center;
+	color: #2196f3;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-decoration: none;
+	font-size: 24px;
+	overflow: hidden;
+	transition: 0.2s;
+}
+a:hover{
+	color: #255784;
+	background: #2196f3;
+	box-shadow: 0 0 10PX #2196F3, 0 0 10PX #2196F3;
+	transition-delay: 0;
+}
+.button{
+	text-align: center;
+}
